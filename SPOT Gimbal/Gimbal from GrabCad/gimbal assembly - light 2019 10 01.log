@@ -1,0 +1,255 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V2206.1700
+! INFO-      
+! INFO-     Start of Translation: 21-FEB-2024  11:44:15 AM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\autum\OneDrive\Nx\gimbal assembly - light 2019 10 01.STEP
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      STEP AP203
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        gimbal assembly - light 2019 10 01.STEP
+! SUMMARY-  Date             2019-10-01T13:58:24
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      SwSTEP 2.0
+! SUMMARY-  Orig_System      SolidWorks 2018
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        config_control_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:   1501
+! SUMMARY-  application_context ........................................:     30
+! SUMMARY-  approval ...................................................:     83
+! SUMMARY-  approval_date_time .........................................:     83
+! SUMMARY-  approval_person_organization ...............................:     83
+! SUMMARY-  approval_role ..............................................:     83
+! SUMMARY-  approval_status ............................................:     83
+! SUMMARY-  axis2_placement_3d .........................................:   2342
+! SUMMARY-  b_spline_curve_with_knots ..................................:    461
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:   1329
+! SUMMARY-  b_spline_surface_with_knots ................................:      4
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:     98
+! SUMMARY-  calendar_date ..............................................:     83
+! SUMMARY-  cartesian_point ............................................:  32870
+! SUMMARY-  circle .....................................................:    901
+! SUMMARY-  closed_shell ...............................................:     13
+! SUMMARY-  conical_surface ............................................:     98
+! SUMMARY-  context_dependent_shape_representation .....................:     38
+! SUMMARY-  coordinated_universal_time_offset ..........................:     83
+! SUMMARY-  cylindrical_surface ........................................:    832
+! SUMMARY-  date_and_time ..............................................:     83
+! SUMMARY-  direction ..................................................:   6021
+! SUMMARY-  edge_curve .................................................:   4028
+! SUMMARY-  edge_loop ..................................................:   1580
+! SUMMARY-  face_bound .................................................:     79
+! SUMMARY-  face_outer_bound ...........................................:   1501
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     15
+! SUMMARY-  item_defined_transformation ................................:     38
+! SUMMARY-  length_unit_and_si_unit ....................................:     15
+! SUMMARY-  line .......................................................:   1337
+! SUMMARY-  local_time .................................................:     83
+! SUMMARY-  manifold_solid_brep ........................................:     13
+! SUMMARY-  next_assembly_usage_occurrence .............................:     38
+! SUMMARY-  organization ...............................................:     39
+! SUMMARY-  oriented_edge ..............................................:   8056
+! SUMMARY-  person .....................................................:     39
+! SUMMARY-  person_and_organization ....................................:     83
+! SUMMARY-  plane ......................................................:    232
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:     15
+! SUMMARY-  product ....................................................:     15
+! SUMMARY-  product_context ............................................:     15
+! SUMMARY-  product_definition .........................................:     15
+! SUMMARY-  product_definition_context .................................:     15
+! SUMMARY-  product_definition_formation_with_specified_source .........:     15
+! SUMMARY-  product_definition_shape ...................................:     53
+! SUMMARY-  product_related_product_category ...........................:     15
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:     38
+! SUMMARY-  shape_representation .......................................:     15
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:     15
+! SUMMARY-  spherical_surface ..........................................:     64
+! SUMMARY-  toroidal_surface ...........................................:    173
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     15
+! SUMMARY-  vector .....................................................:   1337
+! SUMMARY-  vertex_point ...............................................:   2542
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                          68735
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 21-FEB-2024 11:44:16 AM
+! STATUS-    
+! INFO-     CV0305 The entities referenced by a context_dependant_shape_rep are
+! INFO-       not coded as to STEP Part 43 requirements.  The references to the
+! INFO-       component and assembly pieces is out of order.  We will attempt
+! INFO-       to correct this with the given data.  This problem should be
+! INFO-       reported to the translator vendor whose product generated this
+! INFO-       STEP file.  If we are unable to rectify this problem the
+! INFO-       components may be positioned incorrectly.
+! INFO-      
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:23 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\gimby_mounting clamp
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:24 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\92125A372_18-8 SS HEX DRIVE FLAT HEAD SCREW(M3 FH 45mm)_92125A372
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:25 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\gimby_2 battery clamp
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:25 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\gimby_bushing
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:25 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\92125A136_TYPE 18-8 SS FLAT-HEAD SOCKET CAP SCREW(M3 FH 20mm)_92125A136
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:26 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\gimby_3 inner
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:26 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\94807A015_PUSH NUTS FOR UNTHRD SHAFTS_94807A015
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:26 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\91292A112_TYPE 18-8 SS SOCKET HEAD CAP SCREW(M3 SC 8mm)_91292A112
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:26 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\gimby_3 middle
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:26 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\center rod
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:26 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\90591A250_ZINC PLATED STEEL HEX NUT(M3)_90591A250
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:26 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\gimby_3 outer
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:26 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\92125A132_TYPE 18-8 SS FLAT-HEAD SOCKET CAP SCREW(M3 FH 12mm)_92125A132
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:27 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\gimby axl
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 21-FEB-2024  11:44:27 AM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\gimbal assembly - light 2019 10 01.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    34
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             34
+! INFO-      
+! INFO-     Total number of solids input for this translation       :        13
+! INFO-      
+! INFO-     Number of solids created without body validation faults :        13
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 21-FEB-2024  11:44:27 AM
+! INFO-      
