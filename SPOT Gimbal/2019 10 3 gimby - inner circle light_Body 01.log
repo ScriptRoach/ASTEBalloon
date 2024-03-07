@@ -1,9 +1,9 @@
 ﻿STEP to UG
 ! INFO-     NX STEP AP203 - V2206.1700
 ! INFO-      
-! INFO-     Start of Translation: 6-MAR-2024  11:45:43 PM
+! INFO-     Start of Translation: 6-MAR-2024  11:43:49 PM
 ! INFO-      
-! STATUS-   Converting Part: C:\Users\autum\OneDrive\Nx\inner_mount.step
+! STATUS-   Converting Part: C:\Users\autum\OneDrive\Nx\2019 10 3 gimby - inner circle light_Body 01.step
 ! SUMMARY-   
 ! SUMMARY-    STEP Header Information
 ! SUMMARY-   
@@ -63,13 +63,13 @@
 ! SUMMARY-                                                               -------
 ! SUMMARY-  Total                                                           9485
 ! STATUS-    
-! STATUS-   Converting to Output Form (Phase 2 of 3): 6-MAR-2024 11:45:43 PM
+! STATUS-   Converting to Output Form (Phase 2 of 3): 6-MAR-2024 11:43:50 PM
 ! STATUS-    
 ! STATUS-    
 ! STATUS-   Generating UG geometry and placing them in parts
 ! STATUS-    
-! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2024  11:45:43 PM
-! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\inner_mount.prt
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2024  11:43:50 PM
+! INFO-     Filing Part ..: C:\Users\autum\Documents\GitHub\ASTEBalloon\SPOT Gimbal\2019 10 3 gimby - inner circle light_Body 01.prt
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -88,5 +88,5 @@
 ! INFO-      
 ! INFO-     Number of solids ending up as sheet bodies              :         0
 ! INFO-      
-! INFO-     End of Translation: 6-MAR-2024  11:45:43 PM
+! INFO-     End of Translation: 6-MAR-2024  11:43:51 PM
 ! INFO-      
